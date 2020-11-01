@@ -1,2 +1,2 @@
-# uk_biobank_synthetic
+# uk_biobank
 UK Biobank GWAS Analysis with Synthetic Data
